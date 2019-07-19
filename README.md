@@ -20,4 +20,3 @@ https://doi.org/10.1186/s13059-015-0850-7 five selfish reasons to work reproduci
 
 Software Carpentry Lesson on using Git: http://swcarpentry.github.io/git-novice/
 
-This is a test.
