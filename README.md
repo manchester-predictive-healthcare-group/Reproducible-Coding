@@ -19,3 +19,5 @@ https://style.tidyverse.org/ a R style guide - advice for code organisation, nam
 https://doi.org/10.1186/s13059-015-0850-7 five selfish reasons to work reproducibly. Very readable paper on the personal benefits of working openly. Blog by same author on same topic: https://scientificbsides.wordpress.com/2015/07/15/five-selfish-reasons-for-working-reproducibly/
 
 Software Carpentry Lesson on using Git: http://swcarpentry.github.io/git-novice/
+
+This is a test.
